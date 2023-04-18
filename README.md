@@ -1,7 +1,6 @@
-# Unit 12 Homework: Eat Safe, Love
+Module 12 Challenge - NoSQL DBs
 
-The homework instructions and requirements are located in Canvas.
-
-- - -
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+Repository contains:
+  NoSQL_Setup_Part1and2.ipynb Jupyter Notebook file that sets up connection to database.
+  NoSQL_Analysis_Part3.ipynb Jupyter Notebook file that analyzes the database.
+  Starter_Code folder that contains provided starter code and Resources json that gets loaded into MongoDB.
